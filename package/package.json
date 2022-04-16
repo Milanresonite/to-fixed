@@ -1,0 +1,22 @@
+{
+  "name": "to-fixed-val",
+  "version": "1.0.0",
+  "description": "this is to fixed function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milanresonite/to-fixed.git"
+  },
+  "keywords": [
+    "toFixed"
+  ],
+  "author": "Web dev Milan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milanresonite/to-fixed/issues"
+  },
+  "homepage": "https://github.com/Milanresonite/to-fixed#readme"
+}
